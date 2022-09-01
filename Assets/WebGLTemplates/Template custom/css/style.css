@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+    text-align: center;
+    font-family: "Lucida Console";
+}
+
+#unity-canvas {
+    display: block;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border: double black;
+}
+
+button {
+    font-family: "Lucida Console";
+    border-radius: 30px;
+    height: 80px;
+    width: 400px;
+    margin-top: 20px;
+    font-size: 40px;
+}
